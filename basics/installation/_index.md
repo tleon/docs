@@ -106,7 +106,7 @@ We assume you have root access to `phpMyAdmin`, and you're using version 4.x.
 ##### From the command line
 
 The database must be created with 4-Byte UTF-8 encoding (`utf8mb4_general_ci`).
-For information on installation and configuring MySQL, see the [MySQL 5.6 documentation](https://dev.mysql.com/doc/refman/5.6/en/).
+For information on installation and configuring MySQL, see the [MySQL documentation](https://dev.mysql.com/doc/refman/5.6/en/).
 Connect as root to your MySQL server. In this example our root user is called `adminusername`:
 
 ```bash
