@@ -10,7 +10,7 @@ showOnHomepage: true
 
 Before PrestaShop 9 and by default, PrestaShop’s database tables start with the `ps_` prefix. This can be customized during installation
 
-Since PrestaShop 9, prefix is now randomize by default.
+Since PrestaShop 9, prefix is randomized by default.
 
 All table names are in lowercase, and words are separated with an underscore character (“_”):
 
