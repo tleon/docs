@@ -8,15 +8,9 @@ showOnHomepage: true
 
 ## The database structure
 
-By default, PrestaShop’s database tables start with the `ps_` prefix. This can be customized during installation
+Before PrestaShop 9 and by default, PrestaShop’s database tables start with the `ps_` prefix. This can be customized during installation
 
-{{% notice warning %}}
-**Important**
-
-For security reasons We strongly recommend to customize your database prefix instead of using the default one.
-Changing it will help protect your shop against any attacks (some SQL injection for example) targeting the default table names
-
-{{% /notice %}}
+Since PrestaShop 9, prefix is randomized by default.
 
 All table names are in lowercase, and words are separated with an underscore character (“_”):
 
