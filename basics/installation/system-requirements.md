@@ -52,7 +52,8 @@ You'll get a web page detailing requirements and recommendations, and how your s
       <th>8.1</th>
       <th>8.2</th>
       <th>8.3</th>
-      <th>&ge;&nbsp;8.4</th>
+      <th>8.4</th>
+      <th>&ge;&nbsp;8.5</th>
     </tr>
   </thead>
 <tbody>
@@ -65,6 +66,7 @@ You'll get a web page detailing requirements and recommendations, and how your s
       <i class="fa fa-check" aria-hidden="true" title="Recommended version"></i>
       <span class="sr-only">Recommended version</span>
     </td>
+    <td class="support-yes"><span class="sr-only">Yes</span></td>
     <td class="support-no"><span class="sr-only">No</span></td>
   </tr>
 </tbody>
